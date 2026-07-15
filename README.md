@@ -22,18 +22,11 @@ Git      GitHub
 Flask    Bootstrap
 Power BI
 
-##  Projetos em destaque 🚀
+##  Projetos em destaque com aplicação real 🚀
 
-#📚 UniNote
+#🎓 UniNote
 
 Sistema para organização acadêmica que reúne notas, faltas, agenda e acompanhamento do semestre em uma única plataforma.
-
----
-
-🎓 AcademicFlow
-
-Aplicação para gerenciamento acadêmico e simulação de desempenho escolar.
-
 
 ## Atualmente estudando 📖
 
@@ -43,7 +36,11 @@ Aplicação para gerenciamento acadêmico e simulação de desempenho escolar.
 
 • APIs 
 
-• Banco de Dados - Postgres
+• Banco de Dados
+
+• C#
+
+• Lógica de programação
 
 ## Contato 📫
 
@@ -51,8 +48,3 @@ LinkedIn: www.linkedin.com/in/thamyresbsantos
 
 E-mail: thamyresbnadeira@gmail.com
 
-
-• Arquitetura de Software
-🚗 Sistema de Locação de Veículos Elétricos
-
-Projeto Full Stack com banco de dados relacional para gerenciamento de clientes, veículos e locações.
