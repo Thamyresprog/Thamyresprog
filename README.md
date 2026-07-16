@@ -10,9 +10,9 @@ Desenvolvimento de software • Automação • Solução de problemas reais
 
 ## Sobre mim 👩🏽‍💼
 
-Sou estudante de Análise e Desenvolvimento de Sistemas. Tenho interesse em desenvolvimento Full Stack e gosto de criar aplicações que facilitem processos, organizem informações e resolvam problemas do dia a dia.
+Sou estudante de Análise e Desenvolvimento de Sistemas. Tenho interesse em desenvolvimento Full Stack, aplicando soluções em problemas reais, gosto de criar aplicações que facilitem processos, organizem informações e resolvam problemas do dia a dia.
 
-Aqui você encontrará projetos acadêmicos e pessoais que representam minha evolução como desenvolvedora.
+Aqui você encontrará projetos acadêmicos e pessoais que representam minha evolução e trejatória como desenvolvedora.
 
 ## Linguagens que atuo
 
