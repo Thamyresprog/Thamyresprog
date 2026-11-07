@@ -22,6 +22,11 @@ Git      GitHub
 Flask    Bootstrap
 Power BI
 
+## Ferramentas que utilizo
+
+Git      GitHub
+Power BI
+
 ##  Projetos em destaque com aplicação real 🚀
 
 #🎓 UniNote
